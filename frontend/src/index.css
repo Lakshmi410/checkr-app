@@ -1,15 +1,6 @@
-@font-face {
-    font-family: 'Graphik-SemiBold';
-    src: url(../public/assets/fonts/graphik/GraphikSemibold.otf);
-  }
-  
-  @font-face {
-    font-family: 'Graphik-Regular';
-    src: url(../public/assets/fonts/graphik/GraphikRegular.otf);
-  }
-  
-  @font-face {
-    font-family: 'Graphik-Medium';
-    src: url(../public/assets/fonts/graphik/GraphikMedium.otf);
-  }
-  
+h1 {
+  font-family: 'intern', sans-serif;
+}
+body{
+  background: #F7F8FA;;
+}
